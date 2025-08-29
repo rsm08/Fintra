@@ -22,7 +22,7 @@ It lets you **track income & expenses**, **set budgets**, **view interactive cha
 
 ## 🚀 Run Locally  
 ```bash
-git clone https://github.com/your-username/fintra.git
+git clone https://github.com/rsm08/fintra.git
 cd fintra
 pip install -r requirements.txt
 streamlit run app.py
