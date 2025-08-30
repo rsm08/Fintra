@@ -1,0 +1,6 @@
+Pandas
+Streamlit 
+Plotly
+dotenv
+cohere
+base64
